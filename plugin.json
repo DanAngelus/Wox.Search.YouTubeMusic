@@ -1,0 +1,12 @@
+{
+  "ID":"242C23B084D411DB66FE0C79D6C2A6H",
+  "ActionKeyword":"ym",
+  "Name":"Search YouTube Music",
+  "Description":"Search for music on YouTube music",
+  "Author":"DanAngelus",
+  "Version":"1.0.0",
+  "Language":"python",
+  "Website":"https://danangelus.uk",
+  "IcoPath": "Images\\pic.png",
+  "ExecuteFileName":"main.py"
+}
